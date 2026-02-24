@@ -36,10 +36,9 @@ A business-driven engineering project focused on developing smart-glass prototyp
 
 ## 🏆 Achievements & Certifications
 
-* **AWS Certified:** Completed AWS Cloud Developer certification.
-* **Business:** Certiport Entrepreneurship and Small Business (ESB) Certified.
-* **Competitions:** Blue Ocean Global Pitch Competitor.
-* **Academic:** MIT Beaver Works Summer Institute (BWSI) Participant.
+* **AWS Certified:** Completed AWS Cloud Developer & AI Practitioner certification.
+* **Competitions:** Blue Ocean Global Pitch Competitor, DECA ICDC & States Competitor, Stanford Hackathon Competitor.
+* **Academic:** MIT Beaver Works Summer Institute (BWSI).
 
 ---
 
@@ -52,7 +51,5 @@ A business-driven engineering project focused on developing smart-glass prototyp
 
 ## 📫 Let's Connect
 
-* **LinkedIn:** [Your Profile Link]
-* **Portfolio:** [Your Website Link]
-
+Discord: s0hamp
 *“Iterating on the future, one commit at a time.”*
