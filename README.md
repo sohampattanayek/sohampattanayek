@@ -42,12 +42,6 @@ A business-driven engineering project focused on developing smart-glass prototyp
 
 ---
 
-## 📊 GitHub Activity
-
-![Soham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SohamPattanayek&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SohamPattanayek&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 
