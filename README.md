@@ -30,7 +30,7 @@ A Multi-Agent Reinforcement Learning project utilizing the **Centralized Trainin
 A hybrid forecasting suite that combines **LSTM neural networks** with **FinBERT sentiment analysis** to predict stock price action based on news cycles and historical trends.
 
 ### 👓 **Focus Up Smart Glasses**
-A business-driven engineering project focused on developing smart-glass prototypes for enhanced focus and productivity, developed for the Blue Ocean Global Pitch Competition.
+A business-driven engineering project focused on developing smart-glass prototypes for enhanced focus and productivity, developed for the Blue Ocean Global Pitch Competition and DECA Competition.
 
 ---
 
