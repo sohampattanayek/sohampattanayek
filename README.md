@@ -2,7 +2,7 @@
 
 ### 🚀 AI Engineer | Quant Enthusiast | AWS Certified Developer
 
-I am a **Sophomore** and developer focused on building at the intersection of **Artificial Intelligence**, **Quantitative Finance**, and **Robotics**. I specialize in creating systems that bridge the gap between complex data and actionable insights.
+I am a **Rising Junior** and developer focused on building at the intersection of **Artificial Intelligence**, **Quantitative Finance**, and **Robotics**. I specialize in creating systems that bridge the gap between complex data and actionable insights.
 
 ---
 
